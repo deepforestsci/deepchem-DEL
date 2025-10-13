@@ -117,9 +117,9 @@ All trained models were evaluated on held-out KinDEL data, including both on-DNA
 
 
 ![Table 1](./deepchem-del/docs/images/Table1.png)*Fig2: Performance of unified regression models for amplified (di) and non-amplified (tri) on the DDR1 kinase target under random split evaluation. Models were trained jointly across
-targets to predict enrichment values. Results are reported as test RMSE (lower is better) and negative Pearson correlation for held-out in-library and held-out extended library sets.*
+targets to predict enrichment values. Results are reported as test RMSE (lower is better) and negative Spearman correlation for held-out in-library and held-out extended library sets.*
 
-![Table 2](./deepchem-del/docs/images/Table2.png)*Fig3: Performance of unified regression models for amplified (di) and non-amplified (tri) on the MAPK14 kinase target under random split evaluation. Models were trained jointly across targets to predict enrichment values. Results are reported as test RMSE (lower is better) and negative Pearson correlation for held-out in-library and held-out extended library
+![Table 2](./deepchem-del/docs/images/Table2.png)*Fig3: Performance of unified regression models for amplified (di) and non-amplified (tri) on the MAPK14 kinase target under random split evaluation. Models were trained jointly across targets to predict enrichment values. Results are reported as test RMSE (lower is better) and negative Spearman correlation for held-out in-library and held-out extended library
 sets.*
 
 ![Table 3](./deepchem-del/docs/images/Table3.png)*Fig4:  Performance of unified classification models for amplified (di) and non-amplified
